@@ -6,7 +6,7 @@
 # import pandas as pd
 
 # 2. Find two websites for the scraping and use the requests package to bring it into the python file
-# I chose the website Guardian.com to pull information abouot books of the day. I then chose the YellowPages.com to bring information about car insurance agents 
+# I chose the website Guardian.com to pull information about books of the day. For the second website, I chose YellowPages.com to bring in information about car insurance agents 
 
 # 3. Create a beautiful soup object
 
